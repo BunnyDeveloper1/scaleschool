@@ -1,0 +1,38 @@
+
+.menu{
+    overflow:hidden;
+    background-color:transparent;
+    position:fixed;
+    top:0;
+    width:100%;
+    height:80px;
+}
+.menu-left{
+float:left;
+width:30%;
+padding: 14px 10px;
+}
+.menu-middle{
+    float:left;
+    width:50%;
+    text-align:center;
+}
+.link-block a{
+    float:left;
+    display:block;
+    color:#d7f0ed;
+    text-align:center;
+    padding:30px 16px;
+    text-decoration:none;
+    font-size:18px;
+}
+.menu-right{
+    width:10%;
+    float:left;
+    text-align:center;
+
+}
+.link-block a:hover{
+    background-color:#d7f0ed;
+    color:#0070AD;
+}

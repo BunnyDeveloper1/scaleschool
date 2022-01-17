@@ -1,0 +1,35 @@
+.navbar-custom{
+    overflow:hidden;
+    background-color:transparent;
+    position:fixed;
+    top:0;
+    padding:0;
+    width:100%;
+    min-height:80px;
+    color:#d7f0ed;
+    text-decoration:none;
+}
+.navbar-brand{
+padding-left: 15px;
+}
+.navbar-item{
+padding-left:20%;
+color:#0070AD;
+}
+.navbar-item .active {
+color:#d7f0ed;
+}
+.link-block a{
+    display:block;
+    color:#d7f0ed;
+    text-align:center;
+    padding:30px 8px;
+    text-decoration:none;
+    font-size:18px;
+}
+
+.link-block a:hover{
+    background-color:#d7f0ed;
+    text-decoration:none;
+    color:#0070AD;
+}

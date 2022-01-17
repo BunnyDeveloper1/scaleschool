@@ -14,20 +14,7 @@ $(document).ready(function(){
 }
 
 );
-//$(document).ready(function() {
-//  $('ul li a').click(function(e) {
-//    e.preventDefault();
-//    $(this).addClass('active');
-//  });
-//});
 
-//$(document).ready(function () {
-//    $("ul.navbar-nav > li > a").click(
-//    function(e){
-//        $(this).css("color", "#d7f0ed");}
-//
-//    );
-//});
 
 function rotate_img(id_img, id_cont){
 var list = ['c', 'java', 'c++', 'python', 'wordpress', 'html'];
